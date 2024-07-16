@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Xoso333: Trang chơi xổ số và cá cược hàng đầu Châu Á | Vnsoxo - xoso333.cc
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Xoso333 <https://xoso333.cc/>`_ được phát triển với Vnsoxo là nơi không chỉ giúp bạn có thể tham gia các trò chơi xổ số trực tuyến mà còn được trải nghiệm nhiều trò chơi hấp dẫn khác như game bài đổi thưởng, nổ hũ và cá độ bóng đá. Với giao diện đẹp mắt và trải nghiệm mượt mà, Xoso333 mang đến cho bạn cảm giác như đang tham gia vào sòng bạc thực tế.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa Chỉ: 350/9A Đ. Lưu Hữu Phước, Phường 15, Quận 8, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0896554799. 
 
-Contents
---------
+Email: xoso333cc@gmail.com. 
 
-.. toctree::
+Website: https://xoso333.cc/
 
-   usage
-   api
+#xoso333 #xoso333cc #vnsoxo #nhacaixoso333
